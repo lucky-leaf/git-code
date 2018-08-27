@@ -1,2 +1,1 @@
-My Project
-I like git
+# Learn git
