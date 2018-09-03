@@ -18,5 +18,8 @@
   "bugs": {
     "url": "https://github.com/shunkie/git-code/issues"
   },
-  "homepage": "https://github.com/shunkie/git-code#readme"
+  "homepage": "https://github.com/shunkie/git-code#readme",
+  "dependencies": {
+    "koa": "^2.5.2"
+  }
 }
